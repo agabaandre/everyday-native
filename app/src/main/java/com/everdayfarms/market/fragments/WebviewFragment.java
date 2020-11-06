@@ -66,7 +66,6 @@ public class WebviewFragment extends Fragment {
         URL=getArguments().getString("key_url");
         mwebView = view.findViewById(R.id.webView_main);
         mwebView.setWebViewClient(new MyBrowser());
-        mwebView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
         mwebView.getSettings().setPluginState(WebSettings.PluginState.ON);
         mwebView.getSettings().setMediaPlaybackRequiresUserGesture(false);
         mwebView.setWebChromeClient(new WebChromeClient());
