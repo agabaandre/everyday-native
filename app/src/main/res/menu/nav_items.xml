@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/login"
+            android:icon="@drawable/login"
+            android:title="Sign In" />
+        <item
+            android:id="@+id/checkout"
+            android:icon="@drawable/checkout"
+            android:title="Check Out" />
+
+        <item
+            android:icon="?attr/actionModeSelectAllDrawable"
+            android:title="Shop by Category">
+            <menu>
+                <item
+                    android:id="@+id/farms"
+                    android:icon="@drawable/cow"
+                    android:title="Halaal Goat Meat" />
+
+                <item
+                    android:id="@+id/confectionary"
+                    android:icon="@drawable/cake"
+                    android:title="Everyday Bakery" />
+
+                <item
+                    android:id="@+id/biscuits"
+                    android:icon="@drawable/cookies"
+                    android:title="Everyday Bisicuits" />
+                <item
+                    android:id="@+id/flour"
+                    android:icon="@drawable/flourpng"
+                    android:title="Everyday Flours" />
+            </menu>
+        </item>
+
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Useful Links">
+            <menu>
+                <item
+                    android:id="@+id/facebook"
+                    android:icon="@drawable/ic_facebook"
+                    android:title="Facebook" />
+
+                <item
+                    android:id="@+id/whatsapp"
+                    android:icon="@android:drawable/stat_notify_chat"
+                    android:title="Order via WhatsApp" />
+
+                        <item
+                            android:id="@+id/rateapp"
+                            android:icon="@drawable/ic_rate"
+                            android:title="Rate App" />
+
+                <item
+                    android:id="@+id/shareapp"
+                    android:icon="@drawable/ic_share"
+                    android:title="Share App" />
+
+                <item
+                    android:id="@+id/privacy"
+                    android:icon="@drawable/ic_privacy"
+                    android:title="Privacy Policy" />
+
+                            <item
+                                android:id="@+id/about"
+                                android:icon="@drawable/ic_about"
+                                android:title="About Us" />
+
+                <item
+                    android:id="@+id/exit"
+                    android:icon="@drawable/ic_exit"
+                    android:title="Exit" />
+
+            </menu>
+        </item>
+    </group>
+</menu>

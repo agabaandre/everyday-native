@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037432586899",
+    "firebase_url": "https://everyday-farms.firebaseio.com",
+    "project_id": "everyday-farms",
+    "storage_bucket": "everyday-farms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037432586899:android:b159221578324ea5448366",
+        "android_client_info": {
+          "package_name": "com.everdayfarms.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037432586899-gmgka04r873etqofcei2vo0s2t6r022s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everdayfarms.market",
+            "certificate_hash": "eb6979ce4d4db07ab5342b1fca9cd2eeaeb5a6e3"
+          }
+        },
+        {
+          "client_id": "1037432586899-3rac2k02ieret3p1g5bj6chq4oobmq91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgpGxehZHRQ2bSNN4XDLzMIYvyCl_-js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037432586899-3rac2k02ieret3p1g5bj6chq4oobmq91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
