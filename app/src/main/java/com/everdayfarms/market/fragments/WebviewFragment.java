@@ -72,7 +72,7 @@ public class WebviewFragment extends Fragment {
         mwebView.setWebChromeClient(new WebChromeClient());
         mwebView.setWebChromeClient(new myChrome());
         mwebView.getSettings().setDomStorageEnabled(true);
-        //mwebView.getSettings().setMixedContentMode(WebSettings.MIXED_CONTENT_COMPATIBILITY_MODE);
+        mwebView.getSettings().setMixedContentMode(WebSettings.MIXED_CONTENT_COMPATIBILITY_MODE);
 
 
         progressBar = view.findViewById(R.id.progressfb);
