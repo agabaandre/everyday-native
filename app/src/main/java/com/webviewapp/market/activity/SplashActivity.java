@@ -1,4 +1,4 @@
-package com.everdayfarms.market.activity;
+package com.webviewapp.market.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.everdayfarms.market.R;
+import com.webviewapp.market.R;
 
 public class SplashActivity extends AppCompatActivity {
 

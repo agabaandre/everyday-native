@@ -1,4 +1,4 @@
-package com.everdayfarms.market.fragments;
+package com.webviewapp.market.fragments;
 
 
 import android.content.Intent;
@@ -12,8 +12,8 @@ import androidx.appcompat.app.ActionBar;
 import androidx.cardview.widget.CardView;
 import androidx.fragment.app.Fragment;
 
-import com.everdayfarms.market.R;
-import com.everdayfarms.market.activity.MainActivity;
+import com.webviewapp.market.R;
+import com.webviewapp.market.activity.MainActivity;
 
 public class AboutFragment extends Fragment {
     public View view;

@@ -1,4 +1,4 @@
-package com.everdayfarms.market;
+package com.webviewapp.market;
 
 import android.app.Application;
 

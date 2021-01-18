@@ -1,4 +1,4 @@
-package com.everdayfarms.market.fragments;
+package com.webviewapp.market.fragments;
 
 
 import android.os.Bundle;
@@ -13,8 +13,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.everdayfarms.market.activity.MainActivity;
-import com.everdayfarms.market.R;
+import com.webviewapp.market.activity.MainActivity;
+import com.webviewapp.market.R;
 
 import java.io.IOException;
 import java.io.InputStream;

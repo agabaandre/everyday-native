@@ -17,7 +17,33 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db1bf8a3-d63d-411f-8149-8590e39ab86c" name="Default Changelist" comment="" />
+    <list default="true" id="db1bf8a3-d63d-411f-8149-8590e39ab86c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/webviewapp/market/fragments/WebviewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_18_3_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_18_3_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_17_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_15_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_15_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_17_3_4_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_17_3_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_18_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_18_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_onesignal_OneSignal_3_12_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_onesignal_OneSignal_3_12_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/webviewapp/market/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/webviewapp/market/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/everdayfarms/market/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/webviewapp/market/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/everdayfarms/market/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/webviewapp/market/activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/everdayfarms/market/activity/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/webviewapp/market/activity/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/everdayfarms/market/fragments/AboutFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/webviewapp/market/fragments/AboutFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/everdayfarms/market/fragments/PrivacyFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/webviewapp/market/fragments/PrivacyFragment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +66,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="layoutResourceFile_vertical" />
-        <option value="Class" />
         <option value="resourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +77,9 @@
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
     <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jXt73BplfvNXow2rvcplX6mwOP" />
   <component name="ProjectViewState">
@@ -67,6 +96,7 @@
     <property name="ExportApk.SignV1" value="true" />
     <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -173,34 +203,47 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="215" y="50" key="#com.andromob.androlite_in_app/0.0.1280.800@0.0.1280.800" timestamp="1603964381344" />
-    <state width="1238" height="184" key="GridCell.Tab.0.bottom" timestamp="1604358266513">
-      <screen x="0" y="23" width="1280" height="738" />
+    <state width="619" height="142" key="GridCell.Tab.0.bottom" timestamp="1611001551376">
+      <screen x="0" y="23" width="1280" height="740" />
     </state>
     <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603990941592" />
     <state width="1238" height="184" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1604358266513" />
-    <state width="1238" height="184" key="GridCell.Tab.0.center" timestamp="1604358266511">
-      <screen x="0" y="23" width="1280" height="738" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.23.1280.739@0.23.1280.739" timestamp="1610995872510" />
+    <state width="619" height="142" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1611001551376" />
+    <state width="619" height="142" key="GridCell.Tab.0.center" timestamp="1611001551375">
+      <screen x="0" y="23" width="1280" height="740" />
     </state>
     <state width="1238" height="186" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603990941589" />
     <state width="1238" height="184" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1604358266511" />
-    <state width="1238" height="184" key="GridCell.Tab.0.left" timestamp="1604358266510">
-      <screen x="0" y="23" width="1280" height="738" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center/0.23.1280.739@0.23.1280.739" timestamp="1610995872509" />
+    <state width="619" height="142" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1611001551375" />
+    <state width="619" height="142" key="GridCell.Tab.0.left" timestamp="1611001551374">
+      <screen x="0" y="23" width="1280" height="740" />
     </state>
     <state width="1238" height="186" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603990941587" />
     <state width="1238" height="184" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1604358266510" />
-    <state width="1238" height="184" key="GridCell.Tab.0.right" timestamp="1604358266512">
-      <screen x="0" y="23" width="1280" height="738" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left/0.23.1280.739@0.23.1280.739" timestamp="1610995872509" />
+    <state width="619" height="142" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1611001551374" />
+    <state width="619" height="142" key="GridCell.Tab.0.right" timestamp="1611001551375">
+      <screen x="0" y="23" width="1280" height="740" />
     </state>
     <state width="1238" height="186" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603990941591" />
     <state width="1238" height="184" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1604358266512" />
-    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1604490346186">
-      <screen x="0" y="23" width="1280" height="738" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right/0.23.1280.739@0.23.1280.739" timestamp="1610995872510" />
+    <state width="619" height="142" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1611001551375" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1610996055898">
+      <screen x="0" y="23" width="1280" height="739" />
     </state>
     <state x="319" y="227" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1603962102084" />
     <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.738@0.23.1280.738" timestamp="1604490346186" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.739@0.23.1280.739" timestamp="1610996055898" />
     <state x="435" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603970573051">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="435" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1603970573051" />
+    <state x="0" y="23" width="816" height="740" key="find.popup" timestamp="1610995206382">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="0" y="23" width="816" height="740" key="find.popup/0.23.1280.740@0.23.1280.740" timestamp="1610995206382" />
   </component>
 </project>

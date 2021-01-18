@@ -1,4 +1,4 @@
-package com.everdayfarms.market.activity;
+package com.webviewapp.market.activity;
 
 import android.annotation.SuppressLint;
 import android.content.ActivityNotFoundException;
@@ -29,12 +29,12 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.everdayfarms.market.BuildConfig;
-import com.everdayfarms.market.MyApplication;
-import com.everdayfarms.market.R;
-import com.everdayfarms.market.fragments.AboutFragment;
-import com.everdayfarms.market.fragments.PrivacyFragment;
-import com.everdayfarms.market.fragments.WebviewFragment;
+import com.webviewapp.market.BuildConfig;
+import com.webviewapp.market.MyApplication;
+import com.webviewapp.market.R;
+import com.webviewapp.market.fragments.AboutFragment;
+import com.webviewapp.market.fragments.PrivacyFragment;
+import com.webviewapp.market.fragments.WebviewFragment;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.MobileAds;
@@ -44,7 +44,7 @@ import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.google.android.material.navigation.NavigationView;
 
-import static com.everdayfarms.market.fragments.WebviewFragment.mwebView;
+import static com.webviewapp.market.fragments.WebviewFragment.mwebView;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private com.google.android.gms.ads.AdView AdView;

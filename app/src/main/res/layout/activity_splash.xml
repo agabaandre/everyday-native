@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:background="#ffffff"
     android:id="@+id/splash"
-    tools:context="com.everdayfarms.market.activity.SplashActivity">
+    tools:context="com.webviewapp.market.activity.SplashActivity">
 
 
     <ImageView
